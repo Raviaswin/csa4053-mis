@@ -1,0 +1,15 @@
+D:\folders\MIS\Program_1\Program_1\bin\Debug\details.mdf
+D:\folders\MIS\Program_1\Program_1\bin\Debug\details_log.ldf
+D:\folders\MIS\Program_1\Program_1\bin\Debug\Program_1.exe.config
+D:\folders\MIS\Program_1\Program_1\bin\Debug\Program_1.exe
+D:\folders\MIS\Program_1\Program_1\bin\Debug\Program_1.pdb
+D:\folders\MIS\Program_1\Program_1\bin\Debug\Program_1.xml
+D:\folders\MIS\Program_1\Program_1\obj\Debug\Program_1.vbproj.AssemblyReference.cache
+D:\folders\MIS\Program_1\Program_1\obj\Debug\Program_1.vbproj.SuggestedBindingRedirects.cache
+D:\folders\MIS\Program_1\Program_1\obj\Debug\Program_1.Form1.resources
+D:\folders\MIS\Program_1\Program_1\obj\Debug\Program_1.Resources.resources
+D:\folders\MIS\Program_1\Program_1\obj\Debug\Program_1.vbproj.GenerateResource.cache
+D:\folders\MIS\Program_1\Program_1\obj\Debug\Program_1.vbproj.CoreCompileInputs.cache
+D:\folders\MIS\Program_1\Program_1\obj\Debug\Program_1.exe
+D:\folders\MIS\Program_1\Program_1\obj\Debug\Program_1.xml
+D:\folders\MIS\Program_1\Program_1\obj\Debug\Program_1.pdb
